@@ -1,0 +1,27 @@
+{
+  "author": "Alex Wallar <aw204@st-andrews.ac.uk",
+  "contributors": [
+    { "name": "Alex Wallar", "email": "aw204@st-andrews.ac.uk" }
+  ],
+  "name": "email-alarm",
+  "description": "Motion alarm using Arduino and Email",
+  "version": "0.0.0",
+  "keywords": [
+    "arduino",
+    "email",
+    "email"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wallarelvo/email-alarm.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "nodemail": "*",
+    "duino": "*"
+  },
+  "devDependencies": {}
+}
